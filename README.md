@@ -155,14 +155,14 @@ Avg Delivery Days = AVERAGE(Orders[Delivery Days])
 
 | File | Description |
 |---|---|
-| `Sales Performance & Business Health Dashboard.pbix` | Power BI dashboard file |
+| [📥 Sales Performance & Business Health Dashboard.pbix](https://drive.google.com/file/d/1LemSsv_GBpVQAg-N0lUQnCXQ5NH8A85s/view?usp=sharing) | Power BI Dashboard — click to download |
 | `README.md` | Project documentation |
 
 ---
 
 ## 🔗 How to Use
 
-1. Download `Sales Performance & Business Health Dashboard.pbix`
+1. Download the dashboard: [Click here to download PBIX](https://drive.google.com/file/d/1LemSsv_GBpVQAg-N0lUQnCXQ5NH8A85s/view?usp=sharing)
 2. Open in **Power BI Desktop**
 3. If data source error appears: Home → Transform Data → Data Source Settings → update file paths
 4. Explore all 4 pages of the dashboard
